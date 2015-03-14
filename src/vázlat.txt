@@ -2,6 +2,7 @@ Capella használati útmutató dokumentum vázlat
 
 - A polarsys-ről röviden   | (fél oldal alrészenként)
 - A capella-ról röviden    |
+- Arcadia röviden          |
 
 - Telepítés
 	- Windows  |
@@ -16,7 +17,7 @@ Capella használati útmutató dokumentum vázlat
 	- A diagrammok részletes bemutatása (5-7 oldal)
 
 - A capella használata
-	- A capella elindítása,  | (.5-1 oldal)
-	  legfontontosabb menük  |
+	- A capella alapvető használata,  | (.5-1 oldal)
+	  legfontontosabb menük           |
 	- Projekt készítése (.5-1 oldal)
 	- Mintaprojekt készítése (KV) (10-15 oldal)
