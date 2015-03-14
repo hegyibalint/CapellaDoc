@@ -1,0 +1,22 @@
+Capella használati útmutató dokumentum vázlat
+
+- A polarsys-ről röviden   | (fél oldal alrészenként)
+- A capella-ról röviden    |
+
+- Telepítés
+	- Windows  |
+	- Linux    | (Össz 1-1.5 oldal)
+	- OSX      |
+
+- Az arcadia modellezési rendszer
+	- Mi az arcadia (1-2 oldal)
+	- Mi az előnye a többi
+	  modellalapú rendszerrel szemben (1-2 oldal)
+	- A diagrammok rövid bemutatása (1 oldal)
+	- A diagrammok részletes bemutatása (5-7 oldal)
+
+- A capella használata
+	- A capella elindítása,  | (.5-1 oldal)
+	  legfontontosabb menük  |
+	- Projekt készítése (.5-1 oldal)
+	- Mintaprojekt készítése (KV) (10-15 oldal)

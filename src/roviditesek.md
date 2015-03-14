@@ -1,0 +1,10 @@
+-	IV&V: Integration, verification, validation
+-	IVVQ: Integration, verification, validation, qualification
+-	ROI: Return of investment
+-	NF: Non Functional
+-	COTS: Cost off the self
+-	OSS: Open source software
+-	MARTE: Modeling and Analysis of Real Time and Embedded systems
+-	AADL: Architecture Analysis & Design Language
+-	EPBS
+-	IDEF0: Integrated Computer Aided Manufacturing Definition for Function Modeling
