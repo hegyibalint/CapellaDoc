@@ -1,0 +1,14 @@
+Operational Capability
+	A capability is the ability of an organisation to provide a service that supports the achievement of high-level operational goals.
+Operational Activity
+	Process step or function performed toward achieving some objective, by entities that could necessitate to use the future system for this e.g. Control traffic, go along a place, detect a threat
+Operational Entity
+	An operational Entity is a real world entity (other system, device, group or organisation...), interacting with the system (or software, equipment, hardware...) under study, or with its users
+Operational Actor
+	An actor is a [usually human] non decomposable operational Entity
+Operational Interaction
+	Set of Operational services invocations or flows exchanged between Operational Activities, (e.g. Operational Interactions can be composed of Operational data, events...).
+Operational Process
+	A logical organization of Interactions and Activities to fulfil an Operational Capability
+Operational Scenario
+	A scenario describes the behaviour of a given Operational Capability
