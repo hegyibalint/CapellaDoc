@@ -47,6 +47,6 @@
 | IS        | Interface Scenario                                            |
 | CDB       | Class diagram                                                 |
 | M&S       | Modes and State machine                                       |
-| EBPS                                                                     ||
+| EBPS      | End Product Brakedown Structure                               |
 | CIBD      | Configuration Item Breakdown diagram                          |
 | EAB       | EPBS Architecture Bland diagram                               |
